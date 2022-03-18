@@ -23,7 +23,7 @@ While installing choose to install mongodb compass, else install it seperately.
 
 ## Installation
 
-1.Download the Repo and extract it to the convinient location on your Computer:
+1.Download the Repository and extract it to the convinient location on your Computer:
 <https://github.com/ab007shetty/eattendance>
 
 2.Install NPM packages
